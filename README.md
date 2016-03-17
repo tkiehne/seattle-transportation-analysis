@@ -1,8 +1,6 @@
-<div style="text-align: center;" markdown="1">
 # Interactions of Fuel Prices, Traffic and Transportation in the Seattle Area #
 
 ### Thomas P Kiehne (9 Feb 2016) ###
-</div>
 
 ------------------
 
